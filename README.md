@@ -1,1 +1,1 @@
-Projeto: leitura de codigos do ISBN delivros atraves da camera do seu celular.
+Projeto: leitura de codigos do ISBN de livros atraves da camera do seu celular.
